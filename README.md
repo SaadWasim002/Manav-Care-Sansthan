@@ -1,5 +1,5 @@
 # NGO Website Boilerplate
-[Deployed site](https://ngo-website-boilerplate.vercel.app/)
+[Deployed site](https://manav-care-sansthan-fh4enrx43-saad-wasims-projects.vercel.app/)
 
 This project is a boilerplate for creating responsive and modern NGO (Non-Governmental Organization) websites using React.js and Tailwind CSS. Designed with a focus on clean design, ease of use, and scalability, this boilerplate provides a solid foundation for quickly building and deploying NGO websites.
 
